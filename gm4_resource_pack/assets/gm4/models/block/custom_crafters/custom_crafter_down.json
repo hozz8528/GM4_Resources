@@ -4,6 +4,6 @@
         "side": "gm4:block/custom_crafter_side",
         "top": "gm4:block/custom_crafter_top",
         "front": "gm4:block/custom_crafter_side",
-        "bottom": "gm4:block/custom_crafter_bottom_front"
+        "bottom": "gm4:block/custom_crafter_bottom_out"
     }
 }
